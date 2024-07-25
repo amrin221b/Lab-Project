@@ -24,4 +24,4 @@ Our research centered around the question: "How does the accuracy rate of Convol
 
 ### N.B.
 
-- It was a project which was supposed to do for practising different stage of research. So, there may have some terrible mistakes as we have explored soo many things for the first time
+- It was a project which was supposed to do for practising different stage of research. So, there may have some noticible mistakes, as we have explored so many things for the first time
