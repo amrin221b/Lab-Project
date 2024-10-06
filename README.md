@@ -7,7 +7,7 @@ The primary goal of our research was to explore and compare the effectiveness of
 
 ### Research Question
 
-Our research centered around the question: "How does the accuracy rate of Convolutional Neural Network models compare to Vision Transformer models in classifying objects from human-drawn sketches?"
+Our research centered around the question: "How does the accuracy rate of Convolutional Neural Network models compare to Vision Transformer models vary in classifying objects from human-drawn sketches?"
 
 ### Methodology
 
